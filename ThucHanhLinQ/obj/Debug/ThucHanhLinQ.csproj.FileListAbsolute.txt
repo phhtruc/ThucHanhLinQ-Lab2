@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ThucHanhLinQ\ThucHanhLinQ\bin\Debug\ThucHanhLinQ.exe.config
+C:\Users\ADMIN\source\repos\ThucHanhLinQ\ThucHanhLinQ\bin\Debug\ThucHanhLinQ.exe
+C:\Users\ADMIN\source\repos\ThucHanhLinQ\ThucHanhLinQ\bin\Debug\ThucHanhLinQ.pdb
+C:\Users\ADMIN\source\repos\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.exe
+C:\Users\ADMIN\source\repos\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.pdb
+D:\SourceCode\C#\ThucHanhLinQ\ThucHanhLinQ\bin\Debug\ThucHanhLinQ.exe.config
+D:\SourceCode\C#\ThucHanhLinQ\ThucHanhLinQ\bin\Debug\ThucHanhLinQ.exe
+D:\SourceCode\C#\ThucHanhLinQ\ThucHanhLinQ\bin\Debug\ThucHanhLinQ.pdb
+D:\SourceCode\C#\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.csproj.AssemblyReference.cache
+D:\SourceCode\C#\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.csproj.CoreCompileInputs.cache
+D:\SourceCode\C#\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.exe
+D:\SourceCode\C#\ThucHanhLinQ\ThucHanhLinQ\obj\Debug\ThucHanhLinQ.pdb
